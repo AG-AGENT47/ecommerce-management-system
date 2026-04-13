@@ -2,6 +2,8 @@
 
 A full-stack e-commerce platform built as a Database Systems coursework project at BITS Pilani. Features a normalized MySQL relational database backend and a Python Tkinter desktop GUI for end-to-end e-commerce workflows.
 
+**[Watch Demo Video](https://github.com/AG-AGENT47/ecommerce-management-system/releases/download/v1.0/AVYAKT_VIDEO.mp4)**
+
 ---
 
 ## Features
